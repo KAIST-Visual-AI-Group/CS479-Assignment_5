@@ -4,7 +4,7 @@
   </h1>
   <p>
     <a href=https://mhsung.github.io/kaist-cs479-fall-2023/ target="_blank"><b>KAIST CS479: Machine Learning for 3D Data (2023 Fall)</b></a><br>
-    <Optional> Programming Assignment 5
+    [Optional] Programming Assignment 5
   </p>
 </div> 
 
@@ -201,26 +201,28 @@ These are some example prompts you can try:
 - "A bunny sitting on top of a stack of pancakes"  
 ```
 
-## Resources
-- [[blog](https://medium.com/@steinsfu/stable-diffusion-clearly-explained-ed008044e07e)]: Stable Diffusion Clearly Explained!
-- [[website](https://huggingface.co/stabilityai/stable-diffusion-2-1)]: Hugging Face Stable Diffusion v2.1
-- [[github](https://github.com/diff-usion/Awesome-Diffusion-Models)]: Awesome-Diffusion-Models
-- [[github](https://github.com/lllyasviel/ControlNet)]: ControlNet
-- [[paper](https://arxiv.org/abs/2112.10752)] High-Resolution Image Synthesis with Latent Diffusion Models
-- [[paper](https://arxiv.org/abs/2205.11487)] Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding
-- [[paper](https://arxiv.org/abs/2302.05543)] Adding Conditional Control to Text-to-Image Diffusion Models
-- [[paper](https://arxiv.org/abs/2301.07093)] GLIGEN: Open-Set Grounded Text-to-Image Generation
-- [[paper](https://arxiv.org/abs/2208.01626)] Prompt-to-Prompt Image Editing with Cross Attention Control
-- [[paper](https://arxiv.org/abs/2306.00986)] Diffusion Self-Guidance for Controllable Image Generation
-- [[paper](https://arxiv.org/abs/2211.12446)] EDICT: Exact Diffusion Inversion via Coupled Transformations
-- [[paper](https://arxiv.org/abs/2302.08113)] MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation
-- [[paper](https://arxiv.org/abs/2306.05178)] SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions
-- [[paper](https://arxiv.org/abs/2307.01097)] MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion
-- [[paper](https://arxiv.org/abs/2209.14988)] DreamFusion: Text-to-3D using 2D Diffusion
-- [[paper](https://arxiv.org/abs/2212.00774)] Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation
-- [[paper](https://arxiv.org/abs/2305.16213)] ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation
-- [[paper](https://arxiv.org/abs/2302.01721)] TEXTure: Text-Guided Texturing of 3D Shapes
-- [[paper](https://arxiv.org/abs/2303.11396)] Text2Tex: Text-driven Texture Synthesis via Diffusion Models
+## Further Readings
+If you are interested in this topic, we encourage you to check out the materials below.
+
+- [Stable Diffusion Clearly Explained!](https://medium.com/@steinsfu/stable-diffusion-clearly-explained-ed008044e07e)
+- [Hugging Face Stable Diffusion v2.1]((https://huggingface.co/stabilityai/stable-diffusion-2-1))
+- [Awesome-Diffusion-Models](https://github.com/diff-usion/Awesome-Diffusion-Models)
+- [ControlNet Github Repo](https://github.com/lllyasviel/ControlNet)
+- [High-Resolution Image Synthesis with Latent Diffusion Models](https://arxiv.org/abs/2112.10752)
+- [Imagen: Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding]((https://arxiv.org/abs/2205.11487))
+- [ControlNet: Adding Conditional Control to Text-to-Image Diffusion Models]((https://arxiv.org/abs/2302.05543))
+- [GLIGEN: Open-Set Grounded Text-to-Image Generation]((https://arxiv.org/abs/2301.07093))
+- [Prompt-to-Prompt Image Editing with Cross Attention Control]((https://arxiv.org/abs/2208.01626))
+- [Diffusion Self-Guidance for Controllable Image Generation]((https://arxiv.org/abs/2306.00986))
+- [EDICT: Exact Diffusion Inversion via Coupled Transformations]((https://arxiv.org/abs/2211.12446))
+- [MultiDiffusion: Fusing Diffusion Paths for Controlled Image Generation]((https://arxiv.org/abs/2302.08113))
+- [SyncDiffusion: Coherent Montage via Synchronized Joint Diffusions](https://arxiv.org/abs/2306.05178)
+- [MVDiffusion: Enabling Holistic Multi-view Image Generation with Correspondence-Aware Diffusion](https://arxiv.org/abs/2307.01097)
+- [DreamFusion: Text-to-3D using 2D Diffusion](https://arxiv.org/abs/2209.14988)
+- [Score Jacobian Chaining: Lifting Pretrained 2D Diffusion Models for 3D Generation](https://arxiv.org/abs/2212.00774)
+- [ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation](https://arxiv.org/abs/2305.16213)
+- [TEXTure: Text-Guided Texturing of 3D Shapes](https://arxiv.org/abs/2302.01721)
+- [Text2Tex: Text-driven Texture Synthesis via Diffusion Models](https://arxiv.org/abs/2303.11396)
 
 ### Acknowledgement
 The code for Task 3 (DreamFusion) is heavily based on the implementation from [Stable-DreamFusion](https://github.com/ashawkey/stable-dreamfusion/tree/main).
