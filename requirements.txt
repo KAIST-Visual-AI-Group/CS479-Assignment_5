@@ -1,0 +1,11 @@
+torch
+torchvision
+diffusers
+transformers
+accelerate
+scipy
+safetensors
+xformers
+timm
+lpips
+imageio==2.24.0
